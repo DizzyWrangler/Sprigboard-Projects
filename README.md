@@ -10,7 +10,7 @@ Contains Jupyter notebooks for exercise projects in the curriculum as well as co
 * `Capstone Project 2/Capstone Project 2 - EmailSpamDetection.ipynb`
 4. Alternatively, browse toclick on link:
 * [Capstone Project 1/Capstone Project 1 - Adult Income.ipynb](https://github.com/MLJini/Springboard-Projects/blob/master/Capstone%20Project%201/Capstone%20Project%201%20-%20Adult%20Income.ipynb)
-* [Capstone Project 2/Capstone Project 2 - EmailSpamDetection.ipynb](https://github.com/MLJini/Springboard-Projects/blob/master/Capstone%20Project%201/Capstone%20Project%201%20-%20EmailSpamDetection.ipynb)
+* [Capstone Project 2/Capstone Project 2 - EmailSpamDetection.ipynb](https://github.com/MLJini/Springboard-Projects/blob/master/Capstone%20Project%201/Capstone%20Project%202%20-%20EmailSpamDetection.ipynb)
 
 ## Documentation
 * Capstone Project 2 - [Capstone Project 2/Capstone Project 2 - Milstone Report.pdf](https://github.com/MLJini/Springboard-Projects/blob/master/Capstone%20Project%202/)
