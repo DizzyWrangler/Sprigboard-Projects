@@ -7,3 +7,6 @@ Contains Jupyter notebooks for exercise projects in the curriculum as well as co
 2. Launch Jupyter Notebook: `jupyter notebook`
 3. Browse to `Capstone Project 1/Capstone Project 1 - Adult Income.ipynb`
 4. Alternatively, browse to [Capstone Project 1/Capstone Project 1 - Adult Income.ipynb](https://github.com/MLJini/Springboard-Projects/blob/master/Capstone%20Project%201/Capstone%20Project%201%20-%20Adult%20Income.ipynb)
+
+## Documentation
+* Capstone Project 2 - [Capstone Project 2/Capstone Project 2 - Milstone Report.pdf](https://github.com/MLJini/Springboard-Projects/blob/master/Capstone%20Project%202/)
