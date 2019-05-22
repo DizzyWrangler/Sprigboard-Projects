@@ -51,4 +51,4 @@ Contains Jupyter notebooks for exercise projects in the curriculum as well as co
 * [Exercises - API and JSON/sliderule_dsi_json_exercise-SolutionMG.ipynb](https://github.com/MLJini/Springboard-Projects/blob/master/Exercises%20-%20API%20and%20JSON/sliderule_dsi_json_exercise-SolutionMG.ipynb)
 
 ## Documentation
-* Capstone Project 2 - [Capstone Project 2/Capstone Project 2 - Milstone Report.pdf](https://github.com/MLJini/Springboard-Projects/blob/master/Capstone%20Project%202/CCapstone%20Project%202-%20Milstone%20Report.pdf)
+* Capstone Project 2 - [Capstone Project 2/Capstone Project 2 - Milstone Report.pdf](https://github.com/MLJini/Springboard-Projects/blob/master/Capstone%20Project%202/Capstone%20Project%202%20-%20Milstone%20Report.pdf)
