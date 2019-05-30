@@ -1,4 +1,4 @@
-# Springboard Projects
+# Springboard Projects - Data Science Track
 Contains Jupyter notebooks for exercise projects in the curriculum as well as complete work for capstone projects.
 
 
